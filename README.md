@@ -2,7 +2,7 @@
 # UBC
 
 UBC, The first Dedicated PC Cleaning tool for Multiple Old systems.
-![Logo](https://raw.githubusercontent.com/BatchProgrammerWhoSuckAtIt/UBC/main/UBCLogo.png)
+![Logo](https://raw.githubusercontent.com/BatchProgrammerWhoSuckAtIt/UBC/main/images/LogoTR.png)
 
 ## Usage
 UBC Has 8 tools, without counting the "Moptions". Usage shall be told to the user as the files can be harmful if not treated with care. The "trash.bat" file in the Moptions Repository has to be used in the same location as the script is downloaded & extracted.
@@ -20,7 +20,7 @@ however, You will still need Git and a Github account to install on CMD.
     
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/BatchProgrammerWhoSuckAtIt/UBC/main/Screenshot1.png)
+![App Screenshot](https://raw.githubusercontent.com/BatchProgrammerWhoSuckAtIt/UBC/main/images/Screenshot1.png)
 
 
 ## ⚡ Features
