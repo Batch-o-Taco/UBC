@@ -70,7 +70,7 @@ Of course, every good thing is not as good as seen at first glance.
 - UBCLegacy 1 - Coming Soon
 ## Support
 
-For support, email UBC69420@gmail.com or join the UBC SubReddit. ![SupportBanner](https://raw.githubusercontent.com/BatchProgrammerWhoSuckAtIt/UBC/main/images/UBCSupport_Banner.png)
+For support, email UBC69420@gmail.com or join the UBC SubReddit. ![SupportBanner](https://raw.githubusercontent.com/BatchProgrammerWhoSuckAtIt/UBC/main/images/UBCSupport.png)
 
 
 ## Contributing
