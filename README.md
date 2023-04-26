@@ -50,7 +50,7 @@ Of course, every good thing is not as good as seen at first glance.
 - The script does not provide any feedback or error messages to the user during some of its longer-running tasks, such as defragmenting the system drive or scanning for malware.
 
 ## Version Names
-- UBC 1 - Legacy
+- UBC 1 - Not Released
 - UBC 1.1 - Not Released
 - UBC 1.2 - Not Released
 - UBC 1.3 - UBCLegacy
@@ -68,3 +68,17 @@ Of course, every good thing is not as good as seen at first glance.
 - UBCLight 1.6 And On - Not Released
 
 - UBCLegacy 1 - Coming Soon
+## Support
+
+For support, email UBC69420@gmail.com or join the UBC SubReddit. ![SupportBanner](https://raw.githubusercontent.com/BatchProgrammerWhoSuckAtIt/UBC/main/images/UBCSupport_Banner.png)
+
+
+## Contributing
+
+Contributions are always welcome! just don't sell them.
+
+## Authors
+
+- [@bonede](https://github.com/bonede)
+- [@BatchProgrammerWhoSuckAtIt](https://github.com/BatchProgrammerWhoSuckAtIt)
+- [ChatGPT](https://openai.com/blog/chatgpt)
